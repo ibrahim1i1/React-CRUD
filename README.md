@@ -2,8 +2,6 @@
 
 A clean, responsive CRUD (Create, Read, Update, Delete) task cards web application built with **React**, **TypeScript**, and **Tailwind CSS**, featuring instant data persistence using the browser's `localStorage`.
 
-![App Preview](./screenshot.png)
-
 ## Features
 
 - **Create Items:** Add new cards using the Add button or by pressing `Enter`.
